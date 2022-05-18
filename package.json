@@ -1,7 +1,7 @@
 {
   "name": "MonolothicBank",
   "version": "1.0.0",
-  "description": "Demo App Created by charankumar.palla@gmail.com",
+  "description": "Demo App Created by charankumar.palla@gmail.com.....",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -17,3 +17,4 @@
     "nodemon": "^2.0.12"
   }
 }
+
