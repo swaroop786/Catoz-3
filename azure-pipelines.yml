@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-   dev
+   DESKTOP-12G252B
   
 
 steps:
